@@ -1,0 +1,10 @@
+.login{
+    background-image: url(../../assets/images/login.jpg);
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.columna{
+    margin-top: 15%;
+}
